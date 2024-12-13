@@ -1,3 +1,3 @@
 # EASOLVE
 
-![banner](./bg.png)
+![banner](./banner.png)
